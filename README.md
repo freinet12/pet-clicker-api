@@ -33,6 +33,6 @@
     
  - Logout <br>
     - url: `{{app_url}}/api/auth/logout`
-    required fields: NONE
+    - required fields: NONE
        
 
